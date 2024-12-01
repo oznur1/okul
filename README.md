@@ -3,9 +3,6 @@ This project is a web interface based on the appearance and design features of t
 Technologies Used:
 Built with HTML and CSS: Developed for educational purposes using basic web technologies, this design is a practical example I created in the process of improving my skills.
 
-Features:
-Responsive:
-Responsive Design: Designed to work harmoniously on mobile, tablet and desktop devices.
+#Technologies Used:
+Built with HTML and CSS: Developed for educational purposes using basic web technologies, this design is a practical example I created in the process of improving my skills.
 
-Content Presentation:
-Content Presentation: With a stylish design, movie and TV series content is presented in an orderly and aesthetic manner, similar to Netflix's user interface.
