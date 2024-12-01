@@ -3,6 +3,4 @@ This project is a web interface based on the appearance and design features of t
 Technologies Used:
 Built with HTML and CSS: Developed for educational purposes using basic web technologies, this design is a practical example I created in the process of improving my skills.
 
-#Technologies Used:
-Built with HTML and CSS: Developed for educational purposes using basic web technologies, this design is a practical example I created in the process of improving my skills.
 
