@@ -10,3 +10,6 @@ Responsive Design: Designed to work harmoniously on mobile, tablet and desktop d
 
 Content Presentation:
 Content Presentation: With a stylish design, movie and TV series content is presented in an orderly and aesthetic manner, similar to Netflix's user interface.
+
+# Screenshot
+![netflix-GoogleChrome2024-11-0723-58-00-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/fcdd8d7f-0760-4678-999a-eb661ff89907)
